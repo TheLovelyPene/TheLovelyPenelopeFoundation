@@ -47,7 +47,7 @@ Transparency is at the heart of this foundation—every decision, experiment, an
 
 ## License
 
-All content is © 2025 [Your Name].
+All content is © 2025 [Penelope LuQuita].
 
 Documents are shared under **Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)** unless otherwise indicated.
 
@@ -55,9 +55,9 @@ Documents are shared under **Creative Commons Attribution-NonCommercial 4.0 Inte
 
 ## Connect
 
-- **Website:** [Your URL or WordPress site]
-- **Email:** [Your contact]
-- **Blog:** [Link to your primary Lovely Penelope Foundation Blog]
+- **Website:** [[Your URL or WordPress site](https://inquisitivepenelope.wpcomstaging.com)]
+- **Email:** [2ripcmuji@mozmail.com]
+- **Blog:** [[Link to your primary Lovely Penelope Foundation Blog](https://thelovelypenelopefoundation.wordpress.com)]
 
 ---
 
